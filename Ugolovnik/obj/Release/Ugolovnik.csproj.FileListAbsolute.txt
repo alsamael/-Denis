@@ -1,0 +1,9 @@
+c:\users\denis\documents\visual studio 2015\Projects\Ugolovnik\Ugolovnik\bin\Release\Ugolovnik.exe.config
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\Ugolovnik\Ugolovnik\bin\Release\Ugolovnik.exe
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\Ugolovnik\Ugolovnik\bin\Release\Ugolovnik.pdb
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\Ugolovnik\Ugolovnik\obj\Release\Ugolovnik.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\Ugolovnik\Ugolovnik\obj\Release\Ugolovnik.Form1.resources
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\Ugolovnik\Ugolovnik\obj\Release\Ugolovnik.Properties.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\Ugolovnik\Ugolovnik\obj\Release\Ugolovnik.csproj.GenerateResource.Cache
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\Ugolovnik\Ugolovnik\obj\Release\Ugolovnik.exe
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\Ugolovnik\Ugolovnik\obj\Release\Ugolovnik.pdb

@@ -1,0 +1,8 @@
+c:\users\denis\documents\visual studio 2015\Projects\Ugolovnik\Ugolovnik\bin\Debug\Ugolovnik.exe.config
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\Ugolovnik\Ugolovnik\bin\Debug\Ugolovnik.exe
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\Ugolovnik\Ugolovnik\bin\Debug\Ugolovnik.pdb
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\Ugolovnik\Ugolovnik\obj\Debug\Ugolovnik.Form1.resources
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\Ugolovnik\Ugolovnik\obj\Debug\Ugolovnik.Properties.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\Ugolovnik\Ugolovnik\obj\Debug\Ugolovnik.csproj.GenerateResource.Cache
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\Ugolovnik\Ugolovnik\obj\Debug\Ugolovnik.exe
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\Ugolovnik\Ugolovnik\obj\Debug\Ugolovnik.pdb
